@@ -1,4 +1,4 @@
-function ExpenseItem() {
+const ExpenseItem = () => {
     return (
         <div>
             <div>
