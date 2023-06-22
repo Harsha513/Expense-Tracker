@@ -16,10 +16,6 @@ build/
 .vscode/
 .idea/
 
-# Ignore compiled output
-*.css
-*.js
-
 # Ignore package-lock.json or yarn.lock files
 package-lock.json
 yarn.lock
